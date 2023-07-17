@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Pizzeria\bin\Debug\net7.0\Pizzeria.exe
+C:\Users\HP\source\repos\Pizzeria\bin\Debug\net7.0\Pizzeria.deps.json
+C:\Users\HP\source\repos\Pizzeria\bin\Debug\net7.0\Pizzeria.runtimeconfig.json
+C:\Users\HP\source\repos\Pizzeria\bin\Debug\net7.0\Pizzeria.dll
+C:\Users\HP\source\repos\Pizzeria\bin\Debug\net7.0\Pizzeria.pdb
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.AssemblyInfo.cs
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.dll
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\refint\Pizzeria.dll
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.pdb
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\Pizzeria.genruntimeconfig.cache
+C:\Users\HP\source\repos\Pizzeria\obj\Debug\net7.0\ref\Pizzeria.dll
