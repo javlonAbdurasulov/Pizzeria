@@ -15,9 +15,6 @@ namespace Pizzeria
             addBakers(bakers, "Sherzod", 998935555555, 4);
 
             Menu.GetMenu();
-            ///asd
-            ///asd
-            ///asd
 
             
 
