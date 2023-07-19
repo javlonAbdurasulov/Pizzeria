@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Pizzeria\\Pizzeria.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Test\\asd\\ddd\\Pizzeria\\Pizzeria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Pizzeria\\Pizzeria.csproj": {
+    "C:\\Users\\HP\\Desktop\\Test\\asd\\ddd\\Pizzeria\\Pizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Pizzeria\\Pizzeria.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Test\\asd\\ddd\\Pizzeria\\Pizzeria.csproj",
         "projectName": "Pizzeria",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Pizzeria\\Pizzeria.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Test\\asd\\ddd\\Pizzeria\\Pizzeria.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Pizzeria\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Test\\asd\\ddd\\Pizzeria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
